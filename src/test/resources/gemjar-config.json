@@ -1,0 +1,21 @@
+{
+  "environment": "dev",
+  "project_name": "Myntra",
+  "report_name": "MyntraTestReport",
+  "tags": "@Myntra1",
+  "glueCode": "com.qa.myntra",
+  "feature": "src/test/resources/Features/",
+  "jewel_user1": "swati.sh",
+  "jewel_bridge_token1": "2b7e892f-e1ba-4259-b55f-7020d2123cb41678884203007",
+  "email_report": "n",
+  "email_to": "swati.sharma@geminisolutions.com",
+  "email_cc": "",
+  "email_bcc": "",
+  "enter_point": "https://apis.gemecosystem.com/enter-point",
+  "gemjarSubID": "test_id",
+  "dev": {
+    "browserName": "chrome",
+    "launchUrl": "https://www.myntra.com/",
+    "browserTimeout": 100
+  }
+}

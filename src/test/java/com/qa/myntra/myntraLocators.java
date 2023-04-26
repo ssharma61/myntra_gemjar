@@ -25,8 +25,7 @@ public class myntraLocators {
     public static By mainPageElements1 = By.xpath("//a[@class='desktop-main']");
     public static By mainPageElements2 = By.xpath("//span[@class='desktop-userTitle']");
     public static By searchTab = By.xpath("//input[@class='desktop-searchBar']");
-    public static By sortByDropdown = By.xpath("//span[@class='myntraweb-sprite sort-downArrow sprites-downArrow']");
-    public static By filterTag = By.xpath("//span[@class='header-title']");
+
     public static By filterTagElement = By.xpath("//span[@class='vertical-filters-header']");
     public static By categoryTag = By.xpath("//div[@class='vertical-filters-filters categories-container']//label[@class='common-customCheckbox vertical-filters-label']");
     public static By brandTag = By.xpath("//div[@class='vertical-filters-filters brand-container']//label[@class='vertical-filters-label common-customCheckbox']");
